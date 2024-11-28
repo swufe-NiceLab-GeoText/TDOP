@@ -1,7 +1,7 @@
 # TDOP
 The implementation for the paper "Open-World Financial Fraud Detection via Progressive Dependency Learning"
 ## Overview
-
+![TDOP_Overview](https://github.com/swufe-NiceLab-GeoText/TDOP/blob/main/TDOP_Overview.png)
 ## Installation
 python                            3.8.10
 
